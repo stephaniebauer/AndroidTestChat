@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299343156975",
+    "firebase_url": "https://testchat-e3f74.firebaseio.com",
+    "project_id": "testchat-e3f74",
+    "storage_bucket": "testchat-e3f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299343156975:android:75dc652b5794bd3909ad1a",
+        "android_client_info": {
+          "package_name": "com.example.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299343156975-l7nlvfu28srgq72a9pkaj5hd3uobqdif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPv5xAeAnm-qvdB3JaJOad3uqRjIeUBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299343156975-l7nlvfu28srgq72a9pkaj5hd3uobqdif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
